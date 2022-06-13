@@ -10,6 +10,7 @@ Text Domain:
 Domain Path:
 */
 
+
 // Exit if path is accessed directly
 if(!defined('ABSPATH')){exit;}
 
